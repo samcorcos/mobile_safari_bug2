@@ -1,6 +1,6 @@
 # Mobile Safari Bug
 
-This is a minimum reproducible error for the following mobile Safari bug on text input placeholder spacing:
+This is a minimum reproducible error for the following mobile Safari bug on text input width:
 
 http://stackoverflow.com/q/43059492/1766789
 
