@@ -12,6 +12,7 @@ const styles = {
     border: '1px solid black',
   },
   inner: {
+    padding:0,
     position: 'absolute',
     top: 100,
     left: 0,
